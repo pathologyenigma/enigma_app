@@ -1,3 +1,3 @@
-#![feature(associated_type_defaults)]
+#![feature(trait_alias)]
 mod app;
 pub use app::*;
